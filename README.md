@@ -1,8 +1,5 @@
 A complete full-stack application for ordering fuel, batteries, mechanic services, and vehicle rentals with real-time delivery tracking and payment integration.
 
-https://img.shields.io/badge/FUELGO-Ready-brightgreen
-https://img.shields.io/badge/version-1.0.0-blue
-https://img.shields.io/badge/license-MIT-green
 
 🌟 Features
 Core Services
@@ -28,7 +25,7 @@ User Experience
 Payment Integration
 📱 M-Pesa - Pay via 0792045455
 
-💳 PayPal - Pay via hanameelk21@gmail.com or samuelojimaidakwo@gmail.com
+💳 PayPal - Pay via hanameelk21@gmail.com 
 
 🛠 Tech Stack
 Frontend
